@@ -1,7 +1,7 @@
 # ECON-323-Group-Project
-ECON 323 Group Project
-Group members:
-Jingyuan Liu 69763183
+ECON 323 Group Project\
+Group members:\
+Jingyuan Liu 69763183\
 Jinyi Wu 28812972
 Cici  Liu  77155471
 Zefan Liu 17237355
