@@ -4,7 +4,7 @@ Group members:\
 Jingyuan Liu 69763183\
 Jinyi Wu 28812972\
 Cici  Liu  77155471\
-Zefan Liu 17237355\
+Zefan Liu 17237355
 
 
 Online shopping has been a prevalent behavior worldwide, and how prices and sales volume of online goods are associated with consumer behaviors and profit optimization has also become a popular topic in both economics and machine learning. In particular, with traditional economic models, we may ignore some important lurking information behind the data, such as what dominates the variances between sale information of goods, how these goods are naturally clustered, and how people’s rating on a good affects the discounted price. Insights into these topics may help us reveal the deeper economic pattern of selling and purchasing in online shopping.
