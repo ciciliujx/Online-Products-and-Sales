@@ -52,7 +52,7 @@ Cici Liu\
 Discussion
 Jinyi Wu\
 Combine section\
-Ensure the flow is smooth
+Ensure the flow is smooth"
 Zefan Liu, Jinyi Wu, Jingyuan Liu, Cici Liu
 
 
