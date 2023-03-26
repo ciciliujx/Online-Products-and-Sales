@@ -33,7 +33,7 @@ Conclusion:
 The Amazon Sales Dataset provides a wealth of data that can be used to predict product prices, customer preferences, and ranks and sales. Our conclusion will be based on what dominates the variances between sale information of goods, how these goods are naturally clustered, and how people’s rating on a good affects the discounted price.
 
 The distribution of work of each group member:\
-Each group member will be mainly in charge of 1-2 sections of the analysis:\
+Each group member will be mainly in charge of 1-2 sections of the analysis:
 
 Introduction
 Jinyi Wu\
@@ -51,7 +51,7 @@ Section 5
 Cici Liu\
 Discussion
 Jinyi Wu\
-Combine section;
+Combine section\
 Ensure the flow is smooth
 Zefan Liu, Jinyi Wu, Jingyuan Liu, Cici Liu
 
